@@ -14,4 +14,14 @@ En este proyecto leerás datos desde archivos (xls, xlsx, y csv) y los almacenar
 
 Realizarás una limpieza de datos en ellos (Data Mining) para lograr tener los mismos nombres de columnas y de esa manera poder 'mergear' la información que cada uno de ellos tiene.
 
-Finalmente, las preguntas orientarán tu análisis de datos para presentar información relevante. 
+Finalmente, las preguntas orientarán tu análisis de datos para presentar información relevante.
+
+## Estructura
+
+En la carpeta `\assets` encontrarás los archivos con los datasets.
+
+En el archivo `\projecto_2.ipynb` encontrarás las preguntas debe resolver tu código.
+
+## Indicaciones
+
+Las indicaciones necesarias las encontrarás en la WebAsignatura.
